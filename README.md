@@ -6,7 +6,7 @@
 <p align="center">I'm Recal, or cal for short.</p>
 <p align="center">
 I'm a full stack developer who has a deep obsession with the hyperpop and indie/alt-rock genres.<br/>
-At this point I'm pretty sure I entirely run on caffeine, it's become a pretty vital start to my day.<br/>
+At this point I'm pretty sure I run entirely on caffeine, it's become a pretty vital start to my day.<br/>
 Most of my work consists of a lot of backend development and miscellaneous tooling.<br/>
 </p>
 
