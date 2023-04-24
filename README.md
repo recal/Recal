@@ -53,7 +53,7 @@ And that's about it for now.
 <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
 <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" />
 <br/>
-<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img alt="React" src="https://img.shields.io/badge/-React-00b7d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 <br/>
