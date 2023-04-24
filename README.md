@@ -43,7 +43,7 @@ And that's about it for now.
 <br/>
 <img alt="C Sharp" src="https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img alt="Capacitor" src="https://img.shields.io/badge/-Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-384d54?style=for-the-badge&logo=Docker&logoColor=white" />
 <br/>
 <img alt="Cmake" src="https://img.shields.io/badge/-CMake-864f8c?style=for-the-badge&logo=cmake&logoColor=white" />
 <img alt="DataStax" src="https://img.shields.io/badge/-DataStax-3a3a42?style=for-the-badge&logo=datastax&logoColor=white" />
