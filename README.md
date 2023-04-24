@@ -67,10 +67,6 @@ And that's about it for now.
   <img alt="Github Metrics" src="https://metrics.lecoq.io/recal"/>
 </p>
 <p align="center">
-  <img alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=recal&theme=chalk"/>
-</p>
-
-<p align="center">
   <sub><sup><a href="https://github.com/astridlol">@astridlol</a> smells</sup></sub>
 </p>
 <br/><br/>
