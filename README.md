@@ -15,7 +15,7 @@ Most of my work consists of a lot of backend development and miscellaneous tooli
 
 💻 Frontend → Next.js, Tailwind and styled-components
 ⚙️ Backend → Go, Scala, Java and Kotlin
-🌱 Learning → Svelte and Rust
+🌱 Learning → Svelte and Dart
 ```
 
 <h3 align="center">Current Projects</h3><br/>
