@@ -67,6 +67,7 @@ And that's about it for now.
 <img alt="Apache Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=for-the-badge&logo=apache cassandra&logoColor=white" />
 </p>
 
+<h3 align="center">Stats</h3><br/>
 <p align="center">
   <img alt="Github Metrics" src="https://metrics.lecoq.io/recal"/>
 </p>
