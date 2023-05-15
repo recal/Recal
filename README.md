@@ -5,29 +5,33 @@
 <h3 align="center"><b>Hey 👋</b></h3>
 <p align="center">I'm Recal, or cal for short.</p>
 <p align="center">
-I'm a full stack developer who has a deep obsession with the hyperpop and indie/alt-rock genres.<br/>
+I'm a <i>full stack developer</i> who has a deep obsession with the hyperpop and indie/alt-rock genres.<br/>
 At this point I'm pretty sure I run entirely on caffeine, it's become a pretty vital start to my day.<br/>
 Most of my work consists of a lot of backend development and miscellaneous tooling.<br/>
 </p>
+<br/>
 
 ```
 > recent
 
 💻 Frontend → Next.js, Tailwind and styled-components
 ⚙️ Backend → Go, Scala, Java and Kotlin
-🌱 Learning → Svelte and Dart
+🌱 Learning → Svelte and F#
 ```
 
 <h3 align="center">Current Projects</h3><br/>
 <p align="center">
-I'm currently working on:<br/>
-◌ A feature-rich moderation discord bot with all the bells and whistles.<br/>
-◌ A minecraft client/server implementation in D.<br/>
-◌ A scripting language written in Kotlin.<br/><br/>
+<i>I'm currently working on:</i><br/>
+◌ A up-and-coming feature-rich moderation Discord bot<br/>
+◌ Minecraft client/server implementation in D<br/>
+◌ Minecraft client/server implementation in F#<br/>
+◌ Scripting language written in Kotlin<br/>
+◌ Clips service built using Next.js<br/>
+◌ Canvas Discord bot and API<br/><br/>
 And that's about it for now.
 </p>
 
-<h3 align="center">My Stack :)</h3><br/>
+<h3 align="center">Tech Stack</h3><br/>
 <p align="center">
   
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
