@@ -3,11 +3,11 @@
 </p>
 
 <h3 align="center"><b>Hey 👋</b></h3>
-<p align="center">I'm Recal, or cal for short.</p>
+<p align="center">I'm Recal, or <i>cal</i> for short.</p>
 <p align="center">
-I'm a <i>full stack developer</i> who has a deep obsession with the hyperpop and indie/alt-rock genres.<br/>
-At this point I'm pretty sure I run entirely on caffeine, it's become a pretty vital start to my day.<br/>
-Most of my work consists of backend development and other miscellaneous tooling.<br/>
+Passionate <i>Full Stack Developer</i> and a big fan of hyperpop, indie, and alt-rock music.<br/>
+My day frequently starts with a cup of coffee, it's become vital in my daily routine and at this point is a necessity.<br/>
+Most of my work consists of <i>backend development</i> and writing other <i>miscellaneous applications</i>.<br/>
 </p>
 <br/>
 
