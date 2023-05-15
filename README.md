@@ -7,7 +7,7 @@
 <p align="center">
 I'm a <i>full stack developer</i> who has a deep obsession with the hyperpop and indie/alt-rock genres.<br/>
 At this point I'm pretty sure I run entirely on caffeine, it's become a pretty vital start to my day.<br/>
-Most of my work consists of a lot of backend development and miscellaneous tooling.<br/>
+Most of my work consists of backend development and other miscellaneous tooling.<br/>
 </p>
 <br/>
 
