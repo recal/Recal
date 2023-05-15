@@ -19,17 +19,17 @@ Most of my work consists of <i>backend development</i> and writing other <i>misc
 🌱 Learning → Svelte and F#
 ```
 
-<h3 align="center">Current Projects</h3><br/>
+<h3 align="center">Current Projects</h3>
 <p align="center">
-<i>I'm currently working on:</i><br/>
 ⚬ A up-and-coming feature-rich moderation Discord bot<br/>
 ⚬ Minecraft client/server implementation in D<br/>
 ⚬ Minecraft client/server implementation in F#<br/>
 ⚬ Scripting language written in Kotlin<br/>
 ⚬ Clips service built using Next.js<br/>
 ⚬ Canvas Discord bot and API<br/><br/>
-And that's about it for now.
+<i>And that's about it for now.</i>
 </p>
+<br/>
 
 <h3 align="center">Tech Stack</h3><br/>
 <p align="center">
