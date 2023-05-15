@@ -75,3 +75,6 @@ And that's about it for now.
 </p>
 <br/><br/>
 
+<p align="center">
+<img src="pride.gif"/>
+</p>
