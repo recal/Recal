@@ -6,7 +6,6 @@
 <p align="center">I'm Recal, or <i>cal</i> for short.</p>
 <p align="center">
 Passionate <i>Full Stack Developer</i> and a big fan of hyperpop, indie, and alt-rock music.<br/>
-My day frequently starts with a cup of coffee, it's become vital in my daily routine and at this point is a necessity.<br/>
 Most of my work consists of <i>backend development</i> and writing other <i>miscellaneous applications</i>.<br/>
 </p>
 <br/>
@@ -14,9 +13,9 @@ Most of my work consists of <i>backend development</i> and writing other <i>misc
 ```
 > recent
 
-💻 Frontend → Next.js, Tailwind and styled-components
-⚙️ Backend → Go, Scala, Java and Kotlin
-🌱 Learning → Svelte and F#
+💻 Frontend → Next.js, Tailwind and Svelte
+⚙️ Backend → Go, Elixir, Typescript
+🌱 Learning → Rust
 ```
 
 <h3 align="center">Current Projects</h3>
@@ -26,8 +25,9 @@ Most of my work consists of <i>backend development</i> and writing other <i>misc
 ⚬ Minecraft client/server implementation in F#<br/>
 ⚬ Scripting language written in Kotlin<br/>
 ⚬ Clips service built using Next.js<br/>
-⚬ Canvas Discord bot and API<br/><br/>
-<i>And that's about it for now.</i>
+⚬ Discord canvas bot<br/><br/>
+⚬ Personal CDN<br/><br/>
+⚬ UI Library for Fabric written in Kotlin<br/><br/>
 </p>
 <br/>
 
