@@ -20,7 +20,6 @@ Most of my work consists of <i>backend development</i> and writing other <i>misc
 
 <h3 align="center">Current Projects</h3>
 <p align="center">
-⚬ A up-and-coming feature-rich moderation Discord bot<br/>
 ⚬ Minecraft client/server implementation in D<br/>
 ⚬ Minecraft client/server implementation in F#<br/>
 ⚬ Scripting language written in Kotlin<br/>
