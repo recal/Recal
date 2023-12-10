@@ -25,9 +25,9 @@ Most of my work consists of <i>backend development</i> and writing other <i>misc
 ⚬ Minecraft client/server implementation in F#<br/>
 ⚬ Scripting language written in Kotlin<br/>
 ⚬ Clips service built using Next.js<br/>
-⚬ Discord canvas bot<br/><br/>
-⚬ Personal CDN<br/><br/>
-⚬ UI Library for Fabric written in Kotlin<br/><br/>
+⚬ Discord canvas bot<br/>
+⚬ Personal CDN<br/>
+⚬ UI Library for Fabric written in Kotlin<br/>
 </p>
 <br/>
 
