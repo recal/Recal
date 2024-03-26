@@ -5,27 +5,25 @@
 <h3 align="center"><b>Hey 👋</b></h3>
 <p align="center">I'm Recal, or <i>cal</i> for short.</p>
 <p align="center">
-Passionate <i>Full Stack Developer</i> and a big fan of hyperpop, indie, and alt-rock music.<br/>
-Most of my work consists of <i>backend development</i> and writing other <i>miscellaneous applications</i>.<br/>
+I'm a passionate full stack developer and a big fan of hyperpop, indie, and alt-rock music.<br/>
+I primarily focus on backend work, but also handle DevOps and frontend development from time to time.
 </p>
 <br/>
 
 ```
-> recent
+> tools
 
-💻 Frontend → Next.js, Tailwind and Svelte
+💻 Frontend → Next.js w/ Tailwind
 ⚙️ Backend → Go, Elixir, Typescript
-🌱 Learning → Rust
 ```
 
 <h3 align="center">Current Projects</h3>
 <p align="center">
-⚬ Minecraft client/server implementation in D<br/>
-⚬ Minecraft client/server implementation in F#<br/>
-⚬ Scripting language written in Kotlin<br/>
-⚬ Clips service built using Next.js<br/>
-⚬ Discord canvas bot<br/>
-⚬ Personal CDN<br/>
+⚬ Pub/Sub System written in Elixir<br/>
+⚬ Stats dashboard built with Next.js and Tailwind<br/>
+⚬ Clips & Screenshot service built with Next.js and Tauri<br/>
+⚬ CDN written in Go<br/>
+⚬ Scripting language written in Go<br/>
 ⚬ UI Library for Fabric written in Kotlin<br/>
 </p>
 <br/>
@@ -70,10 +68,7 @@ Most of my work consists of <i>backend development</i> and writing other <i>misc
 <p align="center">
   <img alt="Github Metrics" src="https://metrics.lecoq.io/recal"/>
 </p>
-<p align="center">
-  <sub><sup><a href="https://github.com/astridlol">@astridlol</a> smells</sup></sub>
-</p>
-<br/><br/>
+
 
 <p align="center">
 <img src="pride.gif"/>
