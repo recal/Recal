@@ -46,5 +46,7 @@ I'm a full-stack developer who loves hyperpop, indie, and alt-rock music.<br/>I 
 </p>
 
 <p align="center">
+<img src="https://lanyard.cnrad.dev/api/188832332399116288"/>
+<br/><br/>
 <img src="pride.gif"/>
 </p>
