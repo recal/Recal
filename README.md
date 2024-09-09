@@ -1,5 +1,5 @@
 <p align="center">
-<img src="catjam.gif"/>
+<img src="https://lanyard.cnrad.dev/api/188832332399116288"/>
 </p>
 
 <h3 align="center"><b>Hello! 👋</b></h3>
@@ -46,7 +46,7 @@ I'm a full-stack developer who loves hyperpop, indie, and alt-rock music.<br/>I 
 </p>
 
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/188832332399116288"/>
+<img src="catjam.gif"/>
 <br/><br/>
 <img src="pride.gif"/>
 </p>
